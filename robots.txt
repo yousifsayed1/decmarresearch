@@ -1,8 +1,6 @@
 User-agent: *
 Allow: /
 
-# Allow access to all content
-Disallow:
 
 # Sitemap location
 Sitemap: https://decmarresearch.netlify.app/sitemap.xml
